@@ -12,6 +12,6 @@
 
 |  |  |
 |--|--|
-| NIM | **nim** |
-| Nama Lengkap | **nama** |
+| NIM | **21104410079** |
+| Nama Lengkap | **Muhammad Yusuf Ibrahim Ramadhani** |
 | Kelas | TI-4B |
